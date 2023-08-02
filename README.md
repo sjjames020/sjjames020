@@ -1,7 +1,7 @@
+![SJ](https://github.com/sjjames020/sjjames020/assets/113803263/73e42ded-6a9c-4d1b-aa60-14b6f127a83e)
+
+
 # Sonobia James
-
-
-![Profile Banner](link-to-your-banner-image)
 
 👋 Hello there! Welcome to my GitHub profile. I'm Sonobia James or SJ, a passionate full-stack Software Engineer with a love for creativity and innovation.
 
@@ -9,7 +9,7 @@
 
 - Frontend: HTML, CSS, JavaScript, React
 - Backend: Node.js, Express
-- Database: Postgres
+- Database: Postgresql
 - Tools: Git, VS Code
 
 <h3 align="left">Languages and Tools:</h3>
@@ -32,6 +32,11 @@ Here are some of my notable projects:
 ## 💬 Let's Connect
 
 I'm always excited to collaborate on exciting projects or just chat about tech and creativity. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sonobia-james/).
+
+
+## Fun Fact 😆 
+
+Avocados are berries!
 
 ## 🌟 Let's Innovate Together
 
