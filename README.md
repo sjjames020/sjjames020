@@ -7,8 +7,8 @@
 
 ## 🔧 Technologies & Tools
 
-- Frontend: HTML, CSS, JavaScript, React
-- Backend: Node.js, Express
+- Frontend: HTML, CSS, JavaScript, React, TypeScript
+- Backend: Node.js, Express, Python
 - Database: Postgresql
 - Tools: Git, VS Code
 
@@ -17,7 +17,7 @@
 
 ## 🌱 What I'm Up To
 
-Right now I'm currently learning Python and Typescript!
+Right now I'm currently solidifying my knowledge in Python!
 
 I'm constantly learning and exploring new technologies to stay ahead in the rapidly evolving tech landscape. Currently, I'm a software engineering fellow at The Marcy Lab School.
 
