@@ -17,9 +17,9 @@
 
 ## 🌱 What I'm Up To
 
-Right now I'm currently solidifying my knowledge in Python!
+Right now I'm currently solidifying my knowledge in Python and taking Meta's frontend development course!
 
-I'm constantly learning and exploring new technologies to stay ahead in the rapidly evolving tech landscape. Currently, I'm a software engineering fellow at The Marcy Lab School.
+I'm constantly learning and exploring new technologies to stay ahead in the rapidly evolving tech landscape. Open to work.
 
 ## 🚀 My Projects
 
