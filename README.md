@@ -17,7 +17,7 @@
 
 ## 🌱 What I'm Up To
 
-Right now I'm currently solidifying my knowledge in Python and taking Meta's frontend development course!
+Right now I'm currently solidifying my knowledge in Python and Studying Cybersecurity. I'm focusing on Ethics of Technology right now.
 
 I'm constantly learning and exploring new technologies to stay ahead in the rapidly evolving tech landscape. Open to work.
 
@@ -37,6 +37,9 @@ I'm always excited to collaborate on exciting projects or just chat about tech a
 ## Fun Fact 😆 
 
 Avocados are berries!
+
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4271961" style='border:none;'></iframe>
+
 
 ## 🌟 Let's Innovate Together
 
