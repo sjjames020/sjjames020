@@ -19,7 +19,7 @@
 
 ## 🌱 What I'm Up To
 
-Right now I'm currently solidifying my knowledge in Python and studying cybersecurity. I'm focusing on CompTIA Sec+ and Google CyberSecurity Coursera Cerrtificate. Here's my portfolio [Cybersecurity Portfolio]((https://sjjames020.github.io/cybersecurity-portfolio/))
+Right now I'm currently solidifying my knowledge in Python and studying cybersecurity. I'm focusing on CompTIA Sec+ and Google CyberSecurity Coursera Cerrtificate. Here's my portfolio [Cybersecurity Portfolio](https://sjjames020.github.io/cybersecurity-portfolio/)
 
 I'm constantly learning and exploring new technologies to stay ahead in the rapidly evolving tech landscape. Open to work.
 
