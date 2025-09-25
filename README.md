@@ -19,7 +19,7 @@
 
 ## 🌱 What I'm Up To
 
-Right now I'm currently solidifying my knowledge in Python and Studying Cybersecurity. I'm focusing on Ethics of Technology right now.
+Right now I'm currently solidifying my knowledge in Python and studying cybersecurity. I'm focusing on CompTIA Sec+ and Google CyberSecurity Coursera Cerrtificate. Here's my portfolio [Cybersecurity Portfolio](https://github.com/sjjames020/cybersecurity_portfolio/)
 
 I'm constantly learning and exploring new technologies to stay ahead in the rapidly evolving tech landscape. Open to work.
 
